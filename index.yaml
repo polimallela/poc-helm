@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helmpoc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-28T18:09:09.4236608+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d12ec9ef3a84307d3d2eea0575f32aa00162fcd65d4a2393f7c972eba31d7315
+    name: helmpoc
+    type: application
+    urls:
+    - https://polimallela.github.io/poc-helm/helmpoc/helmpoc-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-28T18:09:09.4150752+05:30"
